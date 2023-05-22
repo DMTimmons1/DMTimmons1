@@ -12,6 +12,8 @@
   <p>
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
     <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-2173AF?style=for-the-badge&logo=python&logoColor=FFEB7B">
+    <img src="https://img.shields.io/badge/Django-002408?style=for-the-badge&logo=django&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">

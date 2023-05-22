@@ -4,7 +4,7 @@
 ---
 
 <p>
-  I'm Dawson, a Customer Service Agent turned software developer, currently living in <b>Colorado</b> 
+  I'm Dawson, a Customer Service Agent turned Software Developer, currently living in <b>Colorado</b> 
   ☎️ :computer: <img src="https://user-images.githubusercontent.com/116456652/232321543-0712613f-aa94-4301-b686-f473c734b2ff.png"
 </p>
 <p>
